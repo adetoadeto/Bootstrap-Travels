@@ -1,0 +1,41 @@
+.tracking-wide {
+    letter-spacing: 1rem;
+}
+.container-section {
+    display: inline-flex;
+}
+.padding-left {
+    padding-left: 60px;
+    padding-right: 30px;
+}
+.margin-button {
+    margin-left: 60px;
+}
+
+.img-margin {
+    margin-right: 30px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: repeat(2, 300px);
+}
+
+.activities {
+    margin-left: 90px;
+}
+
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-padding {
+    margin-left: 350px;
+}
+
+.explore-button {
+    margin-left: 92px;
+}
